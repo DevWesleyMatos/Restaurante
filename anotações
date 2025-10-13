@@ -1,0 +1,67 @@
+1. Cabeçalho (Navbar)
+
+Fica fixo no topo da página.
+
+Contém o logo do restaurante e links de navegação para as outras páginas.
+
+Paginas [Carpadio, Sobre, Contato]
+
+Função: permitir que o usuário navegue facilmente entre as seções e páginas.
+
+🌆 2. Seção de destaque (Hero / Banner)
+
+É a primeira imagem que o visitante vê.
+
+Mostra uma foto chamativa do restaurante ou de um prato.
+
+Contém o nome do restaurante, um slogan (frase marcante) e um botão de ação (“Ver cardápio”, “Fazer pedido”).
+
+Formulario (“Reserve sua mesa”, por exemplo).
+
+Função: causar impacto visual e apresentar a identidade do restaurante.
+
+👨‍🍳 3. Seção “Sobre Nós”
+
+Breve resumo da história do restaurante: quando surgiu, o que o torna especial, o tipo de culinária, o diferencial.
+
+Pode ter uma pequena foto da equipe ou do ambiente.
+
+Função: gerar confiança e proximidade com o visitante.
+
+🍝 4. Seção “Pratos em Destaque”
+
+Mostra alguns pratos populares ou exclusivos com imagem, nome e breve descrição.
+
+Normalmente organizada em cards ou galeria.
+
+Pode ter um botão “Ver cardápio completo”.
+
+Função: despertar o apetite e fazer o visitante querer conhecer mais.
+
+💬 5. Seção “Depoimentos”
+
+Espaço com comentários de clientes satisfeitos, com nome e, às vezes, foto.
+
+Pode ser estático (fixo) ou em formato de carrossel.
+
+Função: transmitir credibilidade e confiança.
+
+📍 6. Seção “Localização e Contato Rápido” (opcional)
+
+Mostra o endereço, telefone e horário de funcionamento.
+
+Pode incluir um mapa do Google embutido.
+
+Função: facilitar que o cliente visite ou entre em contato.
+
+⚫ 7. Rodapé
+
+Aparece em todas as páginas.
+
+Contém:
+
+Direitos autorais (“© 2025 Sabor & Arte”)
+
+Links rápidos (Início, Cardápio, Contato)
+
+Ícones de redes sociais (Instagram, Facebook, WhatsApp).

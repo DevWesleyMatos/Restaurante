@@ -3,6 +3,45 @@
     margin: 0;
     box-sizing: border-box;
 }
-section img{
-    width: 96px;
+#head{
+    width: 100vw;
+    height: 9vh;
+    display: flex;
+    padding: 2vw;
+    
+}
+#head img{
+    width: 108px;
+}
+.navbar-nav{
+    padding-right: 10vw;
+    gap: 3vw;
+}
+.nav-link{
+    font-size: larger;
+}
+#carouselExampleRide img {
+  width: 80vw;
+  height: 90vh;
+  object-fit: cover;
+}
+#about{
+    width: 100vw;
+    height: 100vh;
+    padding: 5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#contextAbout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+#contextAbout h1{
+    border: solid black 1px;
+
 }
